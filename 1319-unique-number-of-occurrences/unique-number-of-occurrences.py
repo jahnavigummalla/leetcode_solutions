@@ -1,4 +1,4 @@
-class Solution:
+class Student:
     def uniqueOccurrences(self, arr: list[int]) -> bool:
         freq = {}
         for num in arr:
